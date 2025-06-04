@@ -43,7 +43,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'rest_framework',
     'tipoDeServico.apps.TipodeservicoConfig',
-    'servico.apps.ServicoConfig',
+    'servico.apps.ServicosConfig',
 ]
 
 MIDDLEWARE = [
