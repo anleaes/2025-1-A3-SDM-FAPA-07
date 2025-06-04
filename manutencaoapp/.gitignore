@@ -1,3 +1,5 @@
 manutencaoapp/__pycache__/*
 /apps/tipoDeServico/__pycache__/*
 /apps/tipoDeServico/migrations/*
+/apps/servico/__pycache__/*
+/apps/servico/migrations/*
