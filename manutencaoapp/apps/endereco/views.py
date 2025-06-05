@@ -1,6 +1,7 @@
 from django.shortcuts import render
 from .models import Endereco
 from .serializer import EnderecoSerializer
+from rest_framework import viewsets
 
 # Create your views here.
 
