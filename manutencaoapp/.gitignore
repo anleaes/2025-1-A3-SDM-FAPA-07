@@ -7,3 +7,5 @@ manutencaoapp/__pycache__/*
 /apps/tecnico/migrations/*
 /apps/cliente/__pycache__/*
 /apps/cliente/migrations/*
+/apps/endereco/__pycache__/*
+/apps/endereco/migrations/*
