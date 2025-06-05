@@ -45,6 +45,7 @@ INSTALLED_APPS = [
     'tipoDeServico.apps.TipodeservicoConfig',
     'servicos.apps.ServicosConfig',
     'tecnico.apps.TecnicoConfig',
+    'cliente.apps.ClienteConfig',
 ]
 
 MIDDLEWARE = [
