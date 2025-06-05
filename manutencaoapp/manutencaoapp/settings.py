@@ -44,6 +44,7 @@ INSTALLED_APPS = [
     'rest_framework',
     'tipoDeServico.apps.TipodeservicoConfig',
     'servicos.apps.ServicosConfig',
+    'tecnico.apps.TecnicoConfig',
 ]
 
 MIDDLEWARE = [
