@@ -13,3 +13,5 @@ manutencaoapp/__pycache__/*
 /apps/ordemServico/migrations/*
 /apps/ordemServicoItem/__pycache__/*
 /apps/ordemServicoItem/migrations/*
+/apps/equipamento/__pycache__/*
+/apps/equipamento/migrations/*
