@@ -11,3 +11,5 @@ manutencaoapp/__pycache__/*
 /apps/endereco/migrations/*
 /apps/ordemServico/__pycache__/*
 /apps/ordemServico/migrations/*
+/apps/ordemServicoItem/__pycache__/*
+/apps/ordemServicoItem/migrations/*
