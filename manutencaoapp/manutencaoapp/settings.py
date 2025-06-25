@@ -50,6 +50,7 @@ INSTALLED_APPS = [
     'ordemServico.apps.OrdemservicoConfig',
     'ordemServicoItem.apps.OrdemservicoitemConfig',
     'equipamento.apps.EquipamentoConfig',
+    'rest_framework.authtoken',
 ]
 
 MIDDLEWARE = [
