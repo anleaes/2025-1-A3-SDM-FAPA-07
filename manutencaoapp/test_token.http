@@ -1,0 +1,2 @@
+GET http://localhost:8000/tipoDeServico
+Authorization: Token 2bedaee4a8f9603e64330e601fed505c73ab65af
