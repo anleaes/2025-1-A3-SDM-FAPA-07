@@ -52,6 +52,7 @@ INSTALLED_APPS = [
     'equipamento.apps.EquipamentoConfig',
     'rest_framework.authtoken',
     'corsheaders',
+    'django_filters',
 ]
 
 MIDDLEWARE = [
